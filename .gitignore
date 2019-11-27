@@ -1,0 +1,5 @@
+gradle.properties
+.gradle/
+.idea
+build/
+*.orig
